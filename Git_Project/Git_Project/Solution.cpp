@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	int cnt = 1000;
+	int cnt = 10;
 	return 0;
 }
